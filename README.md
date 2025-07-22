@@ -140,12 +140,4 @@ UPDATE Books SET available_copies = available_copies + 1 WHERE book_id = 101;
 
 ---
 
-## 🙌 Contribution Guide
 
-If you want to improve this project or add frontend/backend layers, feel free to:
-
-* Fork the repo
-* Make your changes
-* Open a Pull Request
-
-Suggestions for improvements like stored procedures, triggers, or GUI support are welcome!
